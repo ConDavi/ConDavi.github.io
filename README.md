@@ -8,10 +8,10 @@ I work with fishing and ranching communities in Baja Calfiornia Sur, Mexico unde
 
 ##### External Links 
 
-![MPI-EVA Page](https://www.eva.mpg.de/ecology/staff/connor-davis/])  
-![Google Scholar Page](https://scholar.google.com/citations?user=VXTF6NsAAAAJ&hl=en&oi=ao)  
-![Github Page](https://github.com/Condavi)
-![ORCID](https://orcid.org/0000-0001-7714-6698)
+[MPI-EVA Page](https://www.eva.mpg.de/ecology/staff/connor-davis/])   
+[Google Scholar Page](https://scholar.google.com/citations?user=VXTF6NsAAAAJ&hl=en&oi=ao)   
+[Github Page](https://github.com/Condavi)  
+[ORCID](https://orcid.org/0000-0001-7714-6698)  
 
 ##### Publications 
 
